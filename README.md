@@ -45,13 +45,13 @@ English-Learning-Daily/
 
 Each daily file follows this structure:
 
-# Notas de Clase
+# Notes
 
 ```bash
 - *Fecha:** ________________
 - --
 
-| #  | Tense | Translations |
+| #  | Tense | Definition |
 
 |----|-------|--------------|
 
@@ -77,7 +77,7 @@ Each daily file follows this structure:
 
 | 11 |       |              |
 
-```
+
 
 - --
 
@@ -87,11 +87,13 @@ Each daily file follows this structure:
 
 ### Vocab
 
-## Video de Referencia
+## Video
 
-**Título del Video:** ____________________
+**Title of Video:** ____________________
 
-[Enlace al Video](URL_DEL_VIDEO)
+[Video Link](URL_DEL_VIDEO)
+
+```
 
 **Goals**
 
