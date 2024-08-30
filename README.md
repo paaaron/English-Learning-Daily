@@ -48,50 +48,40 @@ Each daily file follows this structure:
 # Notes
 
 ```bash
-- *Fecha:** ________________
-- --
 
-| #  | Tense | Definition |
+**Date:** 2024-08-30
 
-|----|-------|--------------|
-
-| 1  |       |              |
-
-| 2  |       |              |
-
-| 3  |       |              |
-
-| 4  |       |              |
-
-| 5  |       |              |
-
-| 6  |       |              |
-
-| 7  |       |              |
-
-| 8  |       |              |
-
-| 9  |       |              |
-
-| 10 |       |              |
-
-| 11 |       |              |
-
-
-
-- --
-
-### Main notes
-
-- --
-
-### Vocab
-
-## Video
-
-**Title of Video:** ____________________
+**Title of Video:** [Insert Title Here]
 
 [Video Link](URL_DEL_VIDEO)
+
+---
+
+| #  | Tense | Definition        |
+|----|-------|-------------------|
+| 1  |       |                   |
+| 2  |       |                   |
+| 3  |       |                   |
+| 4  |       |                   |
+| 5  |       |                   |
+| 6  |       |                   |
+| 7  |       |                   |
+| 8  |       |                   |
+| 9  |       |                   |
+| 10 |       |                   |
+| 11 |       |                   |
+
+---
+
+### Main Notes
+
+- [Insert main points here]
+
+---
+
+### Vocabulary
+
+- [Insert vocabulary words and definitions here]
 
 ```
 
