@@ -7,7 +7,7 @@ The repository is organized by weeks, with each week containing daily markdown f
 
 **Directory Structure**
 
-`
+```bash
 English-Learning-Daily/
 
 │
@@ -33,7 +33,8 @@ English-Learning-Daily/
 │
 
 └── README.md
-`
+
+```
 
 **How It Works**
 
@@ -46,6 +47,7 @@ Each daily file follows this structure:
 
 # Notas de Clase
 
+```bash
 - *Fecha:** ________________
 - --
 
@@ -74,6 +76,8 @@ Each daily file follows this structure:
 | 10 |       |              |
 
 | 11 |       |              |
+
+```
 
 - --
 
