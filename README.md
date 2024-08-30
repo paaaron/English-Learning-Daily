@@ -7,6 +7,7 @@ The repository is organized by weeks, with each week containing daily markdown f
 
 **Directory Structure**
 
+`
 English-Learning-Daily/
 
 │
@@ -32,6 +33,7 @@ English-Learning-Daily/
 │
 
 └── README.md
+`
 
 **How It Works**
 
